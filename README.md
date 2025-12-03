@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm zakaria zirh</h1>
-<h3 align="center">Student engineer at Ensa && ex-Student at 1337 - 42 Network</h3>
+<h1 align="center">Hi 👋, I'm Zakaria Zirh</h1>
+<h3 align="center">DBA - Sysadmin - DevSecOps</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyward" alt="eyward" /></a> </p>
 
